@@ -1,0 +1,36 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image_headers {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+.image_colaborador {
+    position: relative;
+    height: 50%;
+    width: 50%;
+    top: -1000px;
+    z-index: -1;
+}
+
+.image_form {
+    position: relative;
+    left: 400px;
+    z-index: 0;
+    top: 50px;
+}
+
+.image_fundo {
+    position: relative;
+    bottom: 1000px;
+}
+
+.image_final {
+    position: absolute;
+    bottom: 1000px;
+}

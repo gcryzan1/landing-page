@@ -1,0 +1,106 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image_headers {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.image_logo_horizontal {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    width: 12rem;
+    height: 8rem;
+}
+
+.image_app_celular {
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    width: 80%;
+    height: 50%;
+}
+.h2_inicial_1 {
+    position: absolute;
+    color: white;
+    top: 300px;
+    left: 400px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2_inicial_2 {
+    position: absolute;
+    color: white;
+    top: 370px;
+    left: 400px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image_botoes_loja_apps {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 80rem;
+    height: 40rem;
+}
+
+.image_logo_simbora {
+    position: relative;
+    right: 200px;
+    top: -400px;
+    height: 50%;
+    width: 50%;
+}
+
+.image_patricia {
+    position: relative;
+    left: 430px;
+    top: -500px;
+    height: 80%;
+    width: 80%;
+}
+
+.image_texto {
+    position: relative;
+    top: -1400px;
+    left: -100px;
+}
+
+.image_diferenciais {
+    position: relative;
+    top: -1600px;
+}
+
+.image_4 {
+    position: relative;
+    top: -1600px;
+}
+
+.h2_parceiros {
+    position: relative;
+    top: -1500px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image_parceiros {
+    position: relative;
+    top: -1650px;
+}
+
+.image_fundo {
+    position: relative;
+    top: -2050px;
+}
+
+.image_final {
+    position: relative;
+    top: -3150px;
+}

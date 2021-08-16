@@ -1,0 +1,25 @@
+.image_headers {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.image_part2_contato {
+    position: absolute;
+    top: 500px;
+}
+
+.image_fundo {
+    position: relative;
+    vertical-align: bottom;
+}
+
+.image_final {
+    position: absolute;
+    top: 1100px;
+}
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
